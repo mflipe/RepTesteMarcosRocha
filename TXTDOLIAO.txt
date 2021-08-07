@@ -2,9 +2,5 @@ Linha1
 
 
 
-
-linha y
-
-
 linha x
 
